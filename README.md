@@ -1,6 +1,6 @@
 # Melanoma-Detection-Assignment
 
-Group Members
+Created By
 
     Dharmendra Kumar
 
