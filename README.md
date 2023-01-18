@@ -24,3 +24,13 @@ The data set contains the following diseases:
     7. Seborrheic keratosis
     8. Squamous cell carcinoma
     9. Vascular lesion
+    
+##### Step 1: Data Reading/Data Understanding
+##### Step 2: Dataset Creation
+##### Step 3: Dataset visualisation
+##### Step 4: Model Building & training
+##### Step 5: Chose an appropriate data augmentation strategy to resolve underfitting/overfitting 
+##### Step 6: Model Building & training on the augmented data
+##### Step 7: Class distribution
+##### Step 8: Handling class imbalances
+##### Step 9: Model Building & training on the rectified class imbalance data
